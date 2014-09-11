@@ -1,4 +1,4 @@
-#George Nesca Bio (September 10, 2014)
+#George Nesca Bio (September 11, 2014)
 ###Brief as of Recent
 With free time from  my _semi-retirement_, I volunteer at [CWB](http://cwb.org) to barter some sailing time, try to play some tennis (although the season is winding down), and just hang around doing house work. Now I'm looking for something to keep me more interested and excited on a daily basis, as well as lifelong basis. Hopefully learning Python, and other prorgramming languages, will reinvigorate enthusiam now and for future ventures... And eventually get me more disposable income to eat more [otoro](http://otoro.com/).
 ###Workings
