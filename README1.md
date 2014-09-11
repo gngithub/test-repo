@@ -4,6 +4,6 @@ With free time from  my _semi-retirement_, I volunteer at [CWB](http://cwb.org) 
 ###Workings
 I've spent most of my professional career developing RF microwave circuits and assemblies for defense and aerospace communication, navigation, and surveillance applications... From design and manufacturing, to project management and sales. In retrospect, a fairly good experience with some good moments.
 ###Formal Education
-        *Majored in Electrical Engineering, and Minored in Business 
-        *Oper. efficiencey cred: DFSS Green Belt. Almost got a Black Belt... Hiya! 
-        *Hopefully Code Fellows F2 Python and Python Accelerator!
+    *Majored in Electrical Engineering, and Minored in Business 
+    *Oper. efficiencey cred: DFSS Green Belt. Almost got a Black Belt... Hiya! 
+    *Hopefully Code Fellows F2 Python and Python Accelerator!
