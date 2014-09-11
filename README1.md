@@ -1,7 +1,7 @@
 #George Nesca Bio (September 10, 2014)
 
 ###Brief
-Recently, I've been volunteering at (CWB)[http://cwb.org] to barter some sailing time... Trying to play more tennis... And just hanging out. Now I'm looking for something to keep me interested and excited on a daily basis, as well as lifelong basis. 
+Recently, I've been volunteering at [CWB](http://cwb.org) to barter some sailing time... Trying to play more tennis... And just hanging out. Now I'm looking for something to keep me interested and excited on a daily basis, as well as lifelong basis. 
 ###Employment History
 I was a hardware guy. Spent most of my career developing Rf microwave circuits and assemblies for defense and aerospace... From deisgn and manufacturing, to project management and sales.
 *ALDETEC:    Sacramento, CA    6/2009-2/2013
